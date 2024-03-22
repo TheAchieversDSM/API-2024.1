@@ -27,7 +27,9 @@
   <img src="https://img.shields.io/badge/WhatsApp-23121011?style=for-the-badge&logo=whatsapp&logoColor=000000&color=CED4DA"/> 
   <img src="https://img.shields.io/badge/Figma-23121011?style=for-the-badge&logo=figma&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/React-23121011?style=for-the-badge&logo=react&logoColor=000000&color=CED4DA"/>
+  <img src="https://img.shields.io/badge/Bootstrap-23121011?style=for-the-badge&logo=bootstrap&logoColor=000000&color=CED4DA"/>
   <br> 
+  <img src="https://img.shields.io/badge/CSS3-23121011?style=for-the-badge&logo=css3&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/Python-23121011?style=for-the-badge&logo=python&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/JavaScript-23121011?style=for-the-badge&logo=javascript&logoColor=000000&color=CED4DA"/>
   <img src="https://img.shields.io/badge/Node.js-23121011?style=for-the-badge&logo=nodedotjs&logoColor=000000&color=CED4DA"/>
