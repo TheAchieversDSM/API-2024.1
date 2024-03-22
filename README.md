@@ -40,6 +40,7 @@
 
 > 🔗 Links gerais
 > <ul>
+> <li>Ferramenta de Gestão de Tarefas: <a href="https://theachievers.atlassian.net/jira/software/projects/API/boards/5">acesse aqui!</a></li>
 > <li>Repositório do Back-End: <a href="https://github.com/TheAchieversDSM/API-2024.1-Back-End">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2024.1-Web">acesse aqui!</a></li>
 > <li>Repositório do Front-End: <a href="https://github.com/TheAchieversDSM/API-2024.1-PLN">acesse aqui!</a></li>
