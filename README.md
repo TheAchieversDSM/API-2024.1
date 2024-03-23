@@ -12,7 +12,7 @@
 
 ### :bookmark_tabs: Sobre o projeto:
 <p>Dom Rock, empresa de tecnologia inovadora especializada em soluções de software personalizadas e consultoria em TI, veio para impulsionar a produtividade, tornando a tomada de decisões estratégicas mais ágeis e simplificadas por meio da relação entre inteligência artificial, modelos complexos e arquiteturas de datalake.</p>
-<p>Atrelado a isso, para o sucesso do projeto sugeriu-se dashboards dinâmicos com filtros para auxiliar nas análises de dados sobre reviews de determinados produtos por parte de clientes, sendo essas informações previamente processadas através de técnicas de Programação de Linguagem Natural.</p>
+<p>Atrelado a isso, para o sucesso do projeto sugeriu-se dashboards dinâmicos com filtros para auxiliar nas análises de dados sobre reviews de determinados produtos por parte de clientes, sendo essas informações previamente processadas através de técnicas de Processamento de Linguagem Natural.</p>
 
  #### 📌 Status do projeto: Em andamento. 🚧
   
