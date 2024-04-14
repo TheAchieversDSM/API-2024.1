@@ -5,6 +5,7 @@
      <a href="#sobre">Sobre</a> • 
      <a href="#techtools">Ferramentas e Tecnologias</a> •
      <a href="#entregas">Entregas</a> • 
+     <a href="#backlog">Backlog e User Stories</a> • 
      <a href="#equipe">Equipe</a> 
 </p>
 
@@ -54,11 +55,31 @@
 
 Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
-#1 | 25.03.2024 - 14.04.2024 | 🚧 | Em andamento
+#1 | 25.03.2024 - 14.04.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--1">Acesse aqui</a> | Finalizada
 #2 | 15.04.2024 - 05.05.2024 | 🚧 | Não iniciada
 #3 | 06.05.2024 - 26.05.2024 | 🚧 | Não iniciada
 #4 | 27.05.2024 - 16.06.2024 | 🚧 | Não iniciada
 
+<br>
+
+<span id="backlog">
+ 
+ ### :bookmark_tabs: Backlog e User Stories
+ 
+<h4> Épicos</h4>
+<br>
+<img src="https://imgur.com/dVdcBK9.jpg" width="800" />
+</br>
+
+<h4> Backlog do produto</h4>
+<br>
+<img src="https://imgur.com/qnhwuRE.jpg" width="800" />
+</br>
+
+<h4> User Stories</h4>
+<br>
+<img src="https://imgur.com/uyAHpIv.jpg" width="800" />
+<br>
 <br>
 
 <span id="equipe">
