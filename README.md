@@ -73,7 +73,7 @@ Sprint ID | Data | Histórico | Status |
 
 <h4> Backlog do produto</h4>
 <br>
-<img src="https://imgur.com/qnhwuRE.jpg" width="800" />
+<img src="https://imgur.com/YTvSOPO.jpeg" width="800" />
 </br>
 
 <h4> User Stories</h4>
