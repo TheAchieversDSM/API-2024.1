@@ -57,7 +57,7 @@ Sprint ID | Data | Histórico | Status |
 ----------|------|-----------|--------|
 #1 | 25.03.2024 - 14.04.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--1">Acesse aqui</a> | Finalizada
 #2 | 15.04.2024 - 05.05.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--2">Acesse aqui</a> | Finalizada
-#3 | 06.05.2024 - 26.05.2024 | 🚧 | Não iniciada
+#3 | 06.05.2024 - 26.05.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--3">Acesse aqui</a> | Finalizada
 #4 | 27.05.2024 - 16.06.2024 | 🚧 | Não iniciada
 
 <br>
