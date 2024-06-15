@@ -15,7 +15,7 @@
 <p>Dom Rock, empresa de tecnologia inovadora especializada em soluções de software personalizadas e consultoria em TI, veio para impulsionar a produtividade, tornando a tomada de decisões estratégicas mais ágeis e simplificadas por meio da relação entre inteligência artificial, modelos complexos e arquiteturas de datalake.</p>
 <p>Atrelado a isso, para o sucesso do projeto sugeriu-se dashboards dinâmicos com filtros para auxiliar nas análises de dados sobre reviews de determinados produtos por parte de clientes, sendo essas informações previamente processadas através de técnicas de Processamento de Linguagem Natural.</p>
 
- #### 📌 Status do projeto: Em andamento. 🚧
+ #### 📌 Status do projeto: Finaliza. ✅
   
  <br>
  
@@ -58,7 +58,7 @@ Sprint ID | Data | Histórico | Status |
 #1 | 25.03.2024 - 14.04.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--1">Acesse aqui</a> | Finalizada
 #2 | 15.04.2024 - 05.05.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--2">Acesse aqui</a> | Finalizada
 #3 | 06.05.2024 - 26.05.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--3">Acesse aqui</a> | Finalizada
-#4 | 27.05.2024 - 16.06.2024 | 🚧 | Não iniciada
+#4 | 27.05.2024 - 16.06.2024 | <a href="https://github.com/TheAchieversDSM/API-2024.1/wiki/API%E2%80%902024.1-Sprint--4">Acesse aqui</a> | Finalizada
 
 <br>
 
@@ -73,7 +73,7 @@ Sprint ID | Data | Histórico | Status |
 
 <h4> Backlog do produto</h4>
 <br>
-<img src="https://imgur.com/YTvSOPO.jpeg" width="800" />
+<img src="https://imgur.com/HEi3Uvi.jpeg" width="800" />
 </br>
 
 <h4> User Stories</h4>
